@@ -8,6 +8,7 @@
 - [因为太丑就不直接放照片了](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 梦想是有只布偶🐱
 - 男票位招租（bushi
+- 鸭腿饭yyds!
 ### わか时间
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2037%20mins-blue)
