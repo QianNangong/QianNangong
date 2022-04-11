@@ -1,4 +1,13 @@
 ### 闪亮的可爱的午餐肉罐头✨
+- 事小春
+- 喜欢八爷和ナナヲアカリ
+- 正方形战士（指身高和体重）
+- 喜欢挖坑不填（包括物理意义上的）
+- 找新工作ing，可接受北京上海杭州，目前在杭州
+- 不是二次元不是二次元
+- [因为太丑就不直接放照片了](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 梦想是有只布偶🐱
+- 男票位招租（bushi
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2037%20mins-blue)
