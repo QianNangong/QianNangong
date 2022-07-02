@@ -11,7 +11,7 @@
 - 鸭腿饭yyds!
 ### わか时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -58,13 +58,13 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录任何活动
+Go                       31 mins             █████████████████████████   100.0%
 
 🔥 编辑器: 
-本周没有记录任何活动
+VS Code                  31 mins             █████████████████████████   100.0%
 
 💻 操作系统: 
-本周没有记录任何活动
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -85,6 +85,6 @@ Assembly                 2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/QianNangong/QianNangong/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-06-30 18:52:56 UTC
+ Last Updated on 2022-07-02 18:46:16 UTC
 <!--END_SECTION:waka-->
 ### 没有安可
